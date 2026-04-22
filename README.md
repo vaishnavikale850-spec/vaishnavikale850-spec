@@ -1,4 +1,4 @@
-##👋 Hi, I'm Vaishnavi Kale
+**👋 Hi, I'm Vaishnavi Kale**
 
 ---
 
