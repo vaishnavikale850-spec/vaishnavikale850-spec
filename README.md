@@ -5,6 +5,7 @@
 💻 Full Stack Developer | Java | DSA Learner  
 🚀 Passionate about building web applications  
 💡 Blending tech + creativity + AI to craft digital experiences that actually make an impact.
+
 ---
 
 ##  About Me
@@ -57,7 +58,9 @@
 ## 🏆 Achievements & Highlights
 
 🥇  Winner – Disingnity Compitition (Karmaveer Bhaurao Patil Collge of Engineering, Satara)
+
 🥇 Winner – Mini Project Competition (Karmaveer Bhaurao Patil Collge of Engineering, Satara)  
+
 🥈 Runner Up - Digit 2K26 (Karmaveer Bhaurao Patil Institute of Management Studies & Research, Varhe, Satara)
 
 ## 📊 Vaishnavi Jitendra Kale GitHub Stats
