@@ -17,7 +17,7 @@
 ---
 
 ## 🚀 Skills
-- 💻 Languages: Java, JavaScript, SQL
+- 💻 Languages: Java, Python, JavaScript, SQL
 - 🌐 Web: HTML, CSS
 - ⚙️ Tools: Git, GitHub
 
