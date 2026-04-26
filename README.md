@@ -79,4 +79,4 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FFB300?style=for-the-badge&logo=google-chrome&logoColor=black)]([https://your-portfolio-link.com](https://github.com/vaishnavikale850-spec))
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)]([https://github.com/YOUR_USERNAME](https://github.com/vaishnavikale850-spec))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)]([https://github.com/vaishnavikale850-spec](https://github.com/vaishnavikale850-spec))
