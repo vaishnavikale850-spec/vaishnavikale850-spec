@@ -51,11 +51,13 @@
 
 ## 📊 Vaishnavi Jitendra Kale GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnavikale850-spec&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=vaishnavikale850-spec&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnavikale850-spec&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavikale850-spec&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=vaishnavikale850-spec&theme=tokyonight&cache_seconds=1800)
+
+## 🚀 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavikale850-spec&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ## 🤝 Let's Connect
 
