@@ -58,7 +58,7 @@
 
 ## 🚀 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavikale850-spec&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavikale850-spec&theme=tokyonight)
 
 ## 🤝 Let's Connect
 
